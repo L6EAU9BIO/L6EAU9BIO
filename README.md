@@ -2,7 +2,7 @@
 
 Développeur fullstack en formation à **Ada Tech School** (Nantes), je prépare le titre RNCP niveau 6 *Développeur d'applications*.
 
-🔎 **Je recherche une alternance développeur fullstack** à partir de **février 2027**
+ **Je recherche une alternance développeur fullstack** à partir de **février 2027**
 (rythme : 4 jours en entreprise / 1 jour d'école à distance) — Nantes ou télétravail.
 
 ---
